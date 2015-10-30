@@ -3,4 +3,6 @@ Chuyen sang nhanh Minhnv de sua tiep truoc khi chuyen vao nhanh master
 
 cap nhat them noi dung nao
 
+Sua doi truc tiep tu server nhe
+
 
